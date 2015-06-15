@@ -511,8 +511,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "225"
             endingLineNumber = "225"
-            landmarkName = "-setLoudspeakerStatus:"
-            landmarkType = "5">
+            landmarkName = "@implementation AppDelegate"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -543,8 +543,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "286"
             endingLineNumber = "286"
-            landmarkName = "@implementation AppDelegate"
-            landmarkType = "3">
+            landmarkName = "-switchSessionLine"
+            landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -863,8 +863,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "847"
             endingLineNumber = "847"
-            landmarkName = "-onPresenceRecvSubscribe:fromDisplayName:from:subject:"
-            landmarkType = "5">
+            landmarkName = "@implementation AppDelegate"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1071,7 +1071,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1157"
             endingLineNumber = "1157"
-            landmarkName = "-applicationDidEnterBackground:"
+            landmarkName = "-applicationWillResignActive:"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
@@ -1247,8 +1247,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "595"
             endingLineNumber = "595"
-            landmarkName = "@implementation AppDelegate"
-            landmarkType = "3">
+            landmarkName = "-onInviteConnected:"
+            landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1359,7 +1359,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1181"
             endingLineNumber = "1181"
-            landmarkName = "-applicationWillTerminate:"
+            landmarkName = "-applicationDidBecomeActive:"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
