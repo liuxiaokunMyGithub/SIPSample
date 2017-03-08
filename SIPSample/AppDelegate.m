@@ -11,7 +11,7 @@
 #import <CoreTelephony/CTCall.h>
 
 /**
- 资源树测试
+  * 这是一个ip网络电话
  */
 @interface AppDelegate ()
 {
