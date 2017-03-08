@@ -10,6 +10,9 @@
 #import <CoreTelephony/CTCallCenter.h>
 #import <CoreTelephony/CTCall.h>
 
+/**
+ 资源树测试
+ */
 @interface AppDelegate ()
 {
     SoundService* _mSoundService;
